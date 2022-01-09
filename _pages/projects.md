@@ -9,3 +9,5 @@ title: "Projects"
 * [Automatic Spectrophotometer](/projects/AutomaticSpectrophotometer/)
 * [Controlled Syringe Pump](/projects/SyringePump/)
 * [Stirrer with Control on Power and Rate](/projects/Stirrer/)
+* [Scale Dosing Control](/projects/ScaleControl/)
+* [I2C Multidose System with Amount Dosing Control](/projects/I2CSystem/)

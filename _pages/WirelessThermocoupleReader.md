@@ -127,4 +127,13 @@ The new interesting possibilities given by the new low cost developping wirelss 
 	  delay(500);
 	}
 
+## New Improved Version
+
+Very recently we made a new version with two temperature readings and an independent power source given by a lipo battery. Now the box can easily fit under the hood minimizing the number of cables that are moving around. Very helpful if you run complex experiments. The battery can be recharged on site without the need to be removed.
+
+![2Temperature Datalogger](/assets/images/Wireless_datalogger_lipo.jpg){:height="1000px" width="1200px"}
+
+
+![2Temperature circuit](/assets/images/Wireless_datalogger_lipo_circuit.jpg){:height="1000px" width="1200px"}
+
 ## Running Example
